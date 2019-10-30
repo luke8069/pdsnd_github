@@ -1,15 +1,15 @@
 ### Date created
-Include the date you created this project and README file.
+2019-10-29
 
 ### Project Title
-Replace the Project Title
+Udacity git project
 
 ### Description
-Describe what your project is about and what it does
+Learn and Check how to use git freely.
 
 ### Files used
-Include the files used
+bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+In this project, I have used data provided by Udacity.
+I have compared the system usage between three large cities: Chicago, New York City, and Washington, DC.
