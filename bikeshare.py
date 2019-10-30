@@ -2,6 +2,7 @@ import time
 import pandas as pd
 import numpy as np
 
+#This comment just for rectoring branch test
 CITY_DATA = { 'Chicago': 'chicago.csv',
               'New York City': 'new_york_city.csv',
               'Washington': 'washington.csv' }
@@ -240,3 +241,5 @@ def main():
 
 if __name__ == "__main__":
 	main()
+
+# This comment also just test for udacity project with refactoring branch
